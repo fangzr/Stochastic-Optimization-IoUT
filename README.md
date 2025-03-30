@@ -58,21 +58,6 @@ Underwater sensor networks are challenged by limited energy resources and the ha
 
 ---
 
-## Installation
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   ```
-2. **Set Up in MATLAB:**
-   - Open MATLAB and change your current directory to the repository folder.
-   - Add all subdirectories to your MATLAB path:
-     ```matlab
-     addpath(genpath(pwd));
-     ```
-
----
-
 ## Usage
 
 - **Run the Main Simulation:**
