@@ -1,7 +1,6 @@
 # Stochastic Optimization-Aided Energy-Efficient Information Collection in Internet of Underwater Things Networks
 
 This repository contains the MATLAB implementation of algorithms and simulation frameworks for energy-efficient information collection in Internet of Underwater Things (IoUT) networks using stochastic optimization. 
-```
 
 For more details, you can access the paper PDF [here](https://www.researchgate.net/publication/352210791_Stochastic_Optimization_Aided_Energy-Efficient_Information_Collection_in_Internet_of_Underwater_Things_Networks).
 
