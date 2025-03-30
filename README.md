@@ -13,6 +13,23 @@ Underwater sensor networks are challenged by limited energy resources and the ha
 - **Resource Allocation:** Employing a two-stage joint optimization algorithm based on Lyapunov optimization to balance energy consumption with the Age of Information (AoI) and network queue stability.
 - **AoI Evaluation:** Assessing the freshness of collected data to ensure timely and efficient information collection.
 
+**Figure 1:** Illustration of the multi-AUV-assisted data-sensing model.
+
+![Fig. 1: Multi-AUV-assisted data-sensing model](https://raw.githubusercontent.com/fangzr/Stochastic-Optimization-IoUT/refs/heads/main/fig1-system-model.png)
+
+*Description:* This figure provides a high-level view of the multi-AUV-assisted data-sensing model. In this architecture, multiple sensor clusters are supported by horizontal AUVs (H-AUVs) for data collection and a vertical AUV (V-AUV) for data uploading. The design emphasizes the distributed sensing and efficient collection of underwater data under challenging conditions.
+
+---
+
+## Risk Avoidance Capability
+
+**Figure 4:** Capability of avoiding the risky area through Algorithm 1.
+
+![Fig. 4: Capability of avoiding the risky area through Algorithm 1](https://raw.githubusercontent.com/fangzr/Stochastic-Optimization-IoUT/refs/heads/main/fig4-avoid-risky-area.png)
+
+*Description:* This figure illustrates how Algorithm 1 enables the system to steer clear of risky or hazardous areas. By optimizing the AUV’s trajectory, the algorithm ensures that the vehicle avoids danger zones, thereby enhancing both safety and energy efficiency during underwater operations.
+
+
 ---
 
 ## Repository Structure
