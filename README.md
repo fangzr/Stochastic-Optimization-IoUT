@@ -50,7 +50,7 @@ Underwater sensor networks are challenged by limited energy resources and the ha
 
 ## Requirements
 
-- **MATLAB:** R20XXa (or later)  
+- **MATLAB:** R2020a (or later)  
 - **Toolboxes:**  
   - Optimization Toolbox  
   - Signal Processing Toolbox (if applicable)  
