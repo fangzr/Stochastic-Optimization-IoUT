@@ -86,6 +86,9 @@ Underwater sensor networks are challenged by limited energy resources and the ha
 
 You can modify various parameters (e.g., AUV speed, transmission bitrates, environmental settings) in `Main.m` and `Main_AoI.m` to study their effects on energy efficiency and AoI. Additional plotting and data logging can also be incorporated as needed.
 
+## Acknowledgement
+
+This PSO algorithm is based on work by **Yarpiz (www.yarpiz.com)**, originally developed by **S. Mostapha Kalami Heris** as part of project **YPAP115: Path Planning using PSO in MATLAB**.
 
 ---
 
